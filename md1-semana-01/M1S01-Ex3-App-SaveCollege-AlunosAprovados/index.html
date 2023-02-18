@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[M1S01] Ex3</title>
+</head>
+<body>
+    <script>
+
+ 
+        var alunos = [
+            {
+            nomeCompleto : "Anelise Andrade",
+            idade : 15,
+            serie: 9,
+            turma : "9A",
+            periodo : "matutino",
+            matematica : 9,
+        
+            },
+        
+            {
+            nomeCompleto : "Pedro Rocha",
+            idade : 14,
+            serie: 9,
+            turma : "9A",
+            periodo : "matutino",
+            matematica : 10,
+            },
+        
+            {
+            nomeCompleto : "Luciano Guerra",
+            idade : 15,
+            serie: 9,
+            turma : "9A",
+            periodo : "matutino",
+            matematica : 9,
+            },
+        
+            {
+            nomeCompleto : "Juraci Antunes",
+            idade : 16,
+            serie: 9,
+            turma : "9A",
+            periodo : "matutino",
+            matematica: 10,
+            },
+        
+            {
+            nomeCompleto : "Hiuna Pereira",
+            idade : 14,
+            serie: 9,
+            turma : "9A",
+            periodo : "matutino",
+            matematica : 7,
+            }
+        
+        ]
+        console.log("alunos", alunos);
+        
+        // Exercício 3.
+        
+        function obterMedia(notas){
+            let soma = 0
+          
+         notas.forEach(function(nota){
+              soma = soma + nota.matematica
+            })
+          let media = soma/notas.length
+          return media 
+        }
+        
+        console.log(obterMedia(alunos))
+        
+        // Exercício 4.
+        
+        
+        for (const i in alunos) {
+                if (alunos[i].matematica >= 6) {
+                    console.log(`Estudante ${alunos[i].nomeCompleto}, com nota ${alunos[i].matematica}, foi APROVADO/A! \n\n`)
+                } else {
+                    console.log(`Estudante ${alunos[i].nomeCompleto}, com nota ${alunos[i].matematica}, foi REPROVADO/A! \n\n`)
+                } 
+            }
+        
+        
+        </script>
+</body>
+</html>
