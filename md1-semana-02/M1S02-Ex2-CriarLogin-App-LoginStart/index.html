@@ -6,17 +6,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>[M1S02] Ex2</title>
+    <link href="css/style.css" rel="stylesheet">
 </head>
 
-<body style="font-family: Georgia, 'Times New Roman', Times, serif;">
+<body>
 
 
-    <h1>Login</h1>
-    <div style="display: flex; flex-direction: column; max-width: 300px;">
-        <input style="margin-top: 10px; padding: 10px; border-radius: 15px;" type="text" placeholder="usuário">
-        <input style="margin-top: 10px; padding: 10px; border-radius: 15px;" type="text" placeholder="senha">
+   
+    <div id="login">
+        <h1>Login</h1>
+        <input id="usuario" type="text" placeholder="usuário">
+        <input id="senha" type="text" placeholder="senha">
+        <button id="entrar">
+            Entrar
+        </button>
+
+        <div id="resultado"> </div>
+
     </div>
 
+
+    <script src="js/scripts.js"></script>
 </body>
 
 </html>
