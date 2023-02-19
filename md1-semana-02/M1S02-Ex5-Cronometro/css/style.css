@@ -1,0 +1,61 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: url("../img/nav-bg.gif");
+    
+}
+
+#cronometro{
+    background-color: bisque;
+    padding: 50px;
+    border-radius: 15px;
+    max-width: 400px;
+    margin: 15% auto;
+    border: 2px solid #000;
+    text-align: center;
+    
+}
+
+button{
+    margin-top: 10px; 
+    padding: 10px; 
+    border-radius: 15px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+
+#resposta{
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    display: flex; 
+    flex-direction:column; 
+    justify-content: center; 
+    align-items: center;
+}
+#button{
+    width: 70px; 
+    background-color: transparent; 
+    padding:5px 10px; 
+    border: 1px solid green;
+} */
