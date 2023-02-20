@@ -1,0 +1,39 @@
+img{
+    max-width: 100%;
+}
+
+.container{
+    background: url(../img/fundo.jpg) no-repeat;
+    width: 750px;
+    margin: 20% auto;
+
+}
+
+.conteudo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}
+
+.avatar img{
+    border-radius: 50%;
+    border: 5px solid #fff;
+    width: 185px;
+}
+
+.links img{
+    width: 50px;
+    margin: 6px 0;
+}
+
+.descricao{
+    text-align: center;    
+}
+
+#bio{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
