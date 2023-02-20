@@ -1,0 +1,25 @@
+body{
+    background: url("../img/padariaTech.png");
+}
+
+#padaria{
+    background-color: #E3BD8D;
+    padding: 50px;
+    
+    max-width: 400px;
+    margin: 13% auto;
+    border: 3px solid rgb(255, 252, 252);
+    text-align:center;
+}
+
+#calcular{ 
+    border-radius: 15px;
+    border: 2px solid #fff;
+    background-color: #F29727;
+    cursor: pointer;
+}
+
+#preco{
+    border-radius: 15px;
+    border: 2px solid #fff;
+}
