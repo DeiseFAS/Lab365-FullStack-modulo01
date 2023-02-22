@@ -1,0 +1,43 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: #7ED98B;
+   
+}
+
+.container{
+    background-image: url(../img/tel\ laranja.jpg);
+    border-radius: 15px;
+    border: 2px solid #000;
+    display: flex; 
+    flex-direction: column; 
+    max-width: 300px;
+    margin: 15% auto;
+    padding: 20px;
+    background-color:#F2ECE4 ;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+#botao{
+    display: flex;
+    justify-content: flex-end;
+}
+
+button{
+    cursor: pointer; 
+    width: 45%;
+    border-radius: 15px;
+    padding: 3%;
+    background-color:#7ED98B ; 
+    margin-top: 15px;     
+}
+
+input{
+    margin: 5px 0 10px;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
