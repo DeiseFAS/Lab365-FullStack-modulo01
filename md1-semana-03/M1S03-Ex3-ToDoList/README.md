@@ -5,3 +5,5 @@ Faça uma lista de tarefas diárias (strings), e crie 4 funções diferentes.
 02. Função que altera um item da lista.
 03. Função que deleta um item da lista
 04. Função que adiciona um item na lista
+
+Docente: Walberson Dias

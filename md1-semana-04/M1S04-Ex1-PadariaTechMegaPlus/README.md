@@ -17,3 +17,5 @@ Defina um método que receba codigoBarra: number; e quantidade: number; para o s
 Defina um método que você consiga verificar o valor total da conta do cliente.
 
 Defina um método fecharConta, no qual você passa o dinheiro e ele calcula o troco e zera a caixa registradora.
+
+Docente: Walberson Dias

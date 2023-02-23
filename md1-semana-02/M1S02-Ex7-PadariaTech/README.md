@@ -7,3 +7,5 @@ Panificadora Pão de Ontem - Tabela de preços
 2 - R$ 0.36
 ...
 50 - R$ 9.00
+
+Docente: Walberson Dias

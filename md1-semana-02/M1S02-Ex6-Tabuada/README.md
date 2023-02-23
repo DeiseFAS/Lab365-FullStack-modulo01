@@ -6,3 +6,5 @@ Tabuada de 5:
 5 X 2 = 10
 ...
 5 X 10 = 50
+
+Docente: Walberson Dias

@@ -9,3 +9,5 @@ Total: R$ 9.00
 Dinheiro: R$ 20.00
 Troco: R$ 11.00
 ...
+
+Docente: Walberson Dias
