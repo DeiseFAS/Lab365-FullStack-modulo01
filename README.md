@@ -8,7 +8,7 @@
 * [Resumo](#resumo)
 * [Organização das pastas desse repositório](Organização-das-pastas-desse-repositório)
 * [Introdução](#introdução)
-* [Status: Em andamento](Em-andamento)
+* [Status](Em-andamento)
 
 # Resumo
 
@@ -33,3 +33,42 @@ As aulas são ao vivo, de segunda a sexta (3h/dia). Toda semana são passados um
 <p>Ao decorrer do curso mais informações como: tecnologias utilizadas, links dos trabalhos entre outros, serão adicionadas.
 
 
+
+<!-- Cód para o efeito sanfona, que será implementado depois.
+ <details>
+    <summary>Semana 01</summary>
+    <table>
+      <thead>
+        <tr>
+          <th>
+             Exercício
+          </th>
+          <th>Referente ao período:</th>
+          <th>Link de acesso direto</th>
+        </tr>
+      </thead>
+      <corpo>
+        <tr>
+          <td>01 - [M1S01]</td>
+          <td>30/jan - 03/fev</td>
+          <td><a href="https://github.com/DeiseFAS/Lab365-FullStack-modulo01/tree/main/md1-semana-01/M1S01-Ex1-App-SaveCollege-DadosDosAlunos">[App SaveCollege] Dados dos alunos</a></td>
+        </tr>
+        <tr>
+          <td>02</td>
+          <td>06/fev - 10/fev</td>
+          <td><a href="/m1s2">Link</a></td>
+        </tr>
+        <tr>
+          <td>03</td>
+          <td>13/fev - 17/fev</td>
+          <td><a href="/m1s3">Link</a></td>
+        <tr>
+          <td>04</td>
+          <td>21/fev - 24/fev</td>
+          <td><a href="/m1s4">Link</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+ -->
+<!-- trecho do cod com a setinha -->

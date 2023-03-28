@@ -10,3 +10,5 @@ console.log(novaLista);
 
 // i é o index ( indice do array)
 // indexOf é um metodo de Array, ele encontra um item dentro do Array.
+
+// push ou includ

@@ -6,7 +6,6 @@ let novoTotal = document.querySelector('#showNewTotal')
 let botaoAdicionarItem = document.querySelector('#botaoAdicionarItem')
 let botaoFinalizarCompra = document.querySelector('#botaoFinalizarCompra')
 
-
 let total = 0
 
 function add() {
@@ -35,9 +34,7 @@ function calcular() {
     } else {
         novoTotal.innerHTML = "VALOR INVALIDO! Por favor, digitar um valor valido."
     }
-
 }
-
 
 botaoAdicionarItem.addEventListener('click', add)
 botaoFinalizarCompra.addEventListener('click', calcular)
