@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://i.gifer.com/XTpm.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: center;
+   
+      
+}
+
+section {
+    border-radius: 5px;
+    border: 1px solid rgb(202, 200, 202);
+    background: black;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    margin: 30px;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    border: 1px solid #fff;
+    background-color: #fff
+    padding: 5px 10px;
+}
+
+button{
+
+    color: black;
+    font-size: 20px;
+}
+
+p, label {
+    color: #fff;
+    font-size: 20px;
+}
