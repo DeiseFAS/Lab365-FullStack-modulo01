@@ -7,3 +7,5 @@ Faça uma lista de tarefas diárias (strings), e crie 4 funções diferentes.
 04. Função que adiciona um item na lista
 
 Docente: Walberson Dias
+
+Status do exercício: Concluído.

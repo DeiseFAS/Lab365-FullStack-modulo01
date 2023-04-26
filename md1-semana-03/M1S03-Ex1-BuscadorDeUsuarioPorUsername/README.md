@@ -5,3 +5,5 @@ Utilizando as funções de array, busque na lista um usuário por seu username e
 [AULA 1]
 
 Docente: Walberson Dias
+
+Status do exercício: Concluído.

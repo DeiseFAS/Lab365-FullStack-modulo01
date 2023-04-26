@@ -10,3 +10,4 @@ console.log(diffInDays) // 38
 
 Docente: Walberson Dias
 
+Status do exercício: Feito, mas ainda não funciona como esperado.
