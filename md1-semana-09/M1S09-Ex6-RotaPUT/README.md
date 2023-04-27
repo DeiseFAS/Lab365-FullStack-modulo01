@@ -1,17 +1,36 @@
-[M1S09] Ex 6 - Rota PUT
+[M1S09] Ex 1 - Projeto Trindade Places
 
-A rota PUT é outra funcionalidade importante que deve ser implementada na API do projeto Trindade Places. Essa rota permite que os usuários atualizem as informações de uma instituição pública específica na base de dados.
+Contexto:
 
-Para implementar a rota PUT, é preciso definir um identificador único para cada instituição, que será utilizado na requisição de atualização. Além disso, é necessário definir quais campos da instituição poderão ser atualizados pelos usuários.
+O projeto Trindade Places é uma iniciativa importante da prefeitura de Trindade para fornecer informações precisas e atualizadas sobre as instituições que prestam serviços públicos na cidade. Através da API desenvolvida em Node.js, os usuários poderão pesquisar, criar, atualizar e excluir informações sobre essas instituições, como nome do lugar e localização.
 
-A rota PUT pode ser implementada com o path /places/:id, onde o parâmetro :id representa o identificador único da instituição. Ao receber uma requisição PUT com esse path, a API deve verificar se o identificador corresponde a uma instituição válida na base de dados e, em caso positivo, permitir a atualização dos campos definidos.
+A escolha das tecnologias express e sequelize para o desenvolvimento do projeto permite uma implementação eficiente e escalável da API, enquanto a integração com o banco de dados garante que os dados sejam armazenados de forma segura e facilmente acessíveis para consulta e atualização.
 
-A rota permitirá atualiza todos os campos cadastrados, exceto o ID
+O principal objetivo do projeto é fornecer uma base de dados confiável para a cidade de Trindade, visando melhorar a gestão dos serviços públicos e aumentar a transparência das informações sobre as instituições públicas.
 
-image.png
+Com a API desenvolvida, a prefeitura poderá fornecer aos cidadãos uma fonte confiável e atualizada de informações sobre os serviços públicos disponíveis na cidade, contribuindo para uma melhor qualidade de vida para a população.
 
+Projeto:
+
+Para iniciar um novo projeto Node.js + Express e contribuir para o desenvolvimento da API do projeto Trindade Places, siga os seguintes passos:
+
+1.Certifique-se de ter o Node.js instalado em sua máquina.
+
+2.Abra um terminal e crie uma nova pasta para o seu projeto.
+
+3.Navegue até a pasta criada e inicialize o npm com o comando "npm init".
+
+4.Instale o Express utilizando o comando "npm install express".
+
+5.Crie um arquivo chamado "index.js" na raiz do seu projeto.
+
+6.Abra o arquivo "index.js" e importe o Express com o comando "const express = require('express')".
+
+7.Inicie o servidor Express e defina a porta 3333
 
 
 Docente: Douglas Cavalcante
 
-Status do exercício: Aguardando atualização com a resolução do exercício.s
+Status do exercício: Aguardando atualização com a resolução do exercício.
+
+

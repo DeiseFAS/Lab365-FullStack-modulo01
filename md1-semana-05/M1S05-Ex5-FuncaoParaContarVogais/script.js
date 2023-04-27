@@ -15,9 +15,8 @@ var contarVogais = function(palavra) {
 }
 
 
-//
-// Seu teste
-//
+
+// Teste
 try {
     assert.equal(6, contarVogais("abecedario"));
 } catch(e) {

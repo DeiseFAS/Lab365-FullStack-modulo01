@@ -7,3 +7,5 @@ Apenas crie a conexão do servidor node e as rotas em arquivos separados.
 Não será necessária a implementação das funcionalidades;
 
 Docente: Rayane Cristina Oliveira Silva
+
+Exercicio 6, 7 e 8.

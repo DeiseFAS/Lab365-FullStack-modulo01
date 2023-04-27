@@ -7,3 +7,5 @@ Agora para deixar nossa aplicação do exercício anterior mais completa, na rot
 Lembre-se: um middleware é uma função que fica antes da chamada para o controlador ou antes da função da rota.
 
 Docente: Rayane Cristina Oliveira Silva
+
+Exercicio 6, 7 e 8.

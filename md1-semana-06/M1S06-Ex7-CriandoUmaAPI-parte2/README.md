@@ -32,3 +32,5 @@ Caso a operação seja um sucesso, retorne com status 200 o objeto {“mensagem�
 OBS: lembre de alterar os dados para que passe em todos os testes e sua API esteja 100%.
 
 Docente: Rayane Cristina Oliveira Silva
+
+Exercicio 6, 7 e 8.
