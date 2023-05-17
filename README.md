@@ -49,7 +49,11 @@ Nota do Professor: 10%<br>
 A semana 11 e 12 foram dedicadas ao desenvolvimento do Projeto avaliativo.
 O link de apresentação e do repósitorio com documentação completa serão disponibilizados aqui assim que a coordenação do curso autorizar. No momento ambos estão como "privados"
 porque estão sendo submetidos a avaliação.<br>
-A entrega do projeto compoe 60% da nota
+A entrega do projeto compoe 60% da nota.
+
+### Feedback
+
+![image](https://github.com/DeiseFAS/Lab365-FullStack-modulo01/assets/71991444/cf227206-0af1-4259-a576-dad5dc400b14)
 
 ## Defesa de exercício e apresentação em vídeo do mesmo. 
 
@@ -62,6 +66,10 @@ As orientações para a entrega da defesa de exercícios foram:
 - O vídeo deve conter no máximo 3 minutos.
 
 Link da Defesa de exercício: https://youtu.be/ZnQa-90ReDI
+
+### Feedback
+
+![image](https://github.com/DeiseFAS/Lab365-FullStack-modulo01/assets/71991444/7c516f23-c630-4bae-9efd-67133d3832ae)
 
 # Status do módulo 1
 
