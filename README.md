@@ -84,7 +84,7 @@ Link da Defesa de exercício: https://youtu.be/ZnQa-90ReDI
         <tr>
           <td>30/01/2023</td>
           <td>21/04/2023</td>
-          <td><a href="https://github.com/DeiseFAS/Lab365-FullStack-modulo01/tree/main">Módulo 1(você já está aqui)</a></td>
+          <td><a href="https://github.com/DeiseFAS/Lab365-FullStack-modulo01/tree/main">Módulo 1(você está aqui)</a></td>
         </tr>
         <tr>
           <td>01/05/2023</td>
