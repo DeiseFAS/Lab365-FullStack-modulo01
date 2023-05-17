@@ -68,6 +68,38 @@ Link da Defesa de exercício: https://youtu.be/ZnQa-90ReDI
 <p>Status: Concluído.
 <p>Embora o módulo 1 já esteja concluido, este repositório ainda receberá algumas atualizações referentes a melhorias em seus exercícios.</p>
 
+<details>
+    <summary>Módulos e respectivos repositórios</summary>
+    <table>
+      <thead>
+        <tr>
+          <th>
+             Início
+          </th>
+          <th>Termino</th>
+          <th>Link de acesso ao repositório</th>
+        </tr>
+      </thead>
+      <corpo>
+        <tr>
+          <td>30/01/2023</td>
+          <td>21/04/2023</td>
+          <td><a href="https://github.com/DeiseFAS/Lab365-FullStack-modulo01/tree/main">Módulo 1(você já está aqui)</a></td>
+        </tr>
+        <tr>
+          <td>01/05/2023</td>
+          <td>21/07/2023</td>
+          <td><a href="https://github.com/DeiseFAS/Lab365-FullStack-modulo02">Módulo 2</a></td>
+        </tr>
+        <tr>
+          <td>31/07/2023</td>
+          <td>20/10/2023</td>
+          <td><a href="">Em breve</a></td>
+       </tbody>
+    </table>
+  </details>
+
+
 # Conclusão e Agradecimentos
 
 ---------------Em breve------------------
